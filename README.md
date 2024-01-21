@@ -1,2 +1,2 @@
 # Captcha.py
-Captcha.py soal 1
+Captcha.py jawaban soal no 1
